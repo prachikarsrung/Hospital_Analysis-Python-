@@ -4,7 +4,7 @@
 
 This project focuses on analyzing hotel booking data for AtliQ Hotels using Python and Pandas. The goal of the project is to perform data cleaning, transformation, exploration, and generate business insights from hotel booking datasets.
 
-[file: ](./)
+[file: ](./https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/exercise_solution.pdf)
 
 The analysis helps understand:
 
