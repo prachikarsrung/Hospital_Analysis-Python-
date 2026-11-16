@@ -4,6 +4,21 @@
 
 This project focuses on analyzing hotel booking data for AtliQ Hotels using Python and Pandas. The goal of the project is to perform data cleaning, transformation, exploration, and generate business insights from hotel booking datasets.
 
+# AtliQ Hotels Dashboard
+
+A two-page dashboard built from the AtliQ Hotels data analysis notebook (`exercise_solution.ipynb`).
+
+## Pages
+
+- **Occupancy**: average occupancy by room class, city, weekday vs weekend, and June 2022 by city.
+- **Revenue**: revenue realized by city, month, hotel, and booking platform.
+
+## Data
+
+Source files: `dim_date`, `dim_hotels`, `dim_rooms`, `fact_aggregated_bookings`, `fact_bookings`.
+
+
+
 [exercise_solution.pdf](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/exercise_solution.pdf)
 
 The analysis helps understand:
