@@ -20,7 +20,10 @@ A two-page dashboard built from the AtliQ Hotels data analysis notebook (`exerci
 ![DNS capture](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/AtliQ%20Hotels%20Dashboard%202.pdf)
 
 
+![DNS capture](https://github.com/prachikarsrung/Instagram_analysis/blob/main/Instagram_visual.png)
 
+
+---
 ## Data
 
 Source files: `dim_date`, `dim_hotels`, `dim_rooms`, `fact_aggregated_bookings`, `fact_bookings`.
