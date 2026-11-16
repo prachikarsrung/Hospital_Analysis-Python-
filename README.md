@@ -14,7 +14,9 @@ A two-page dashboard built from the AtliQ Hotels data analysis notebook (`exerci
 - **Revenue**: revenue realized by city, month, hotel, and booking platform.
 
 ### Analytical Dashboard 
-[View AtliQ Hotels Dashboard (PDF)](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/AtliQ%20Hotels%20Dashboard%202.pdf)
+### AtliQ Hotels Dashboard
+
+[![View Dashboard](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/AtliQ%20Hotels%20Dashboard%202.pdf)
 
 ### Analytical Dashboard 
 ![DNS capture](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/AtliQ%20Hotels%20Dashboard%202.pdf)
