@@ -13,16 +13,12 @@ A two-page dashboard built from the AtliQ Hotels data analysis notebook (`exerci
 - **Occupancy**: average occupancy by room class, city, weekday vs weekend, and June 2022 by city.
 - **Revenue**: revenue realized by city, month, hotel, and booking platform.
 
-### Analytical Dashboard 
+
 ### AtliQ Hotels Dashboard
 
 [![View Dashboard](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/AtliQ%20Hotels%20Dashboard%202.pdf)
 
-### Analytical Dashboard 
-![DNS capture](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/AtliQ%20Hotels%20Dashboard%202.pdf)
 
-
-![DNS capture](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/AtliQ%20Hotels%20Dashboard%202.pdf)
 
 
 ---
