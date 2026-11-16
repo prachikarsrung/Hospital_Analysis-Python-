@@ -13,6 +13,11 @@ A two-page dashboard built from the AtliQ Hotels data analysis notebook (`exerci
 - **Occupancy**: average occupancy by room class, city, weekday vs weekend, and June 2022 by city.
 - **Revenue**: revenue realized by city, month, hotel, and booking platform.
 
+### Analytical Dashboard 
+![DNS capture](https://github.com/prachikarsrung/Instagram_analysis/blob/main/Instagram_visual.png)
+
+
+
 ## Data
 
 Source files: `dim_date`, `dim_hotels`, `dim_rooms`, `fact_aggregated_bookings`, `fact_bookings`.
