@@ -16,7 +16,7 @@ A two-page dashboard built from the AtliQ Hotels data analysis notebook (`exerci
 
 ### AtliQ Hotels Dashboard 1
 
-[![View Dashboard](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/AtliQ%20Hotels%20Dashboard%202.pdf)
+[![View Dashboard](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](https://github.com/prachikarsrung/Hospital_Analysis-Python-/blob/main/Occupancy.png)
 
 
 ### AtliQ Hotels Dashboard 2
